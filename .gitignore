@@ -127,6 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< HEAD
 
 # aoc session cookie
 cookie.txt
+=======
+>>>>>>> f732d1bd1f902655d594d3b2367522db2cdde31a
